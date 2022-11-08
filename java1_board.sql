@@ -53,4 +53,4 @@ CREATE TABLE `board_file` (
 	`oriName`	VARCHAR(255),
 	`download`	INT DEFAULT 0,
 	`rdate`		DATETIME
-);
+);java1_boardinformation_schemainformation_schemajava1_shopjava1_shopjava1_shopjava1_shopjava1_shopjava1_shopjava1_shoplecNOjava1_collegejava1_collegelecture
